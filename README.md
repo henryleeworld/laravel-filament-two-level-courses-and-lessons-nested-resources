@@ -35,5 +35,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/5yQ4vS1.png)
+![](https://i.imgur.com/9bCRRvR.png)
 > 課程資源可能會附帶多個單元課程
