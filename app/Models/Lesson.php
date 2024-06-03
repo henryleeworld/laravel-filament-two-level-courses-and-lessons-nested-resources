@@ -12,6 +12,11 @@ class Lesson extends Model
 {
     use HasFactory;
 
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array<int, string>
+     */
     protected $fillable = [
         'company_id',
         'course_id',
